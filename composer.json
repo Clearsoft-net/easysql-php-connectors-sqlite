@@ -39,5 +39,6 @@
         "psr-4": {
             "Clearsoft\\EasySQL\\Connectors\\SQLite\\Tests\\": "tests/"
         }
-    }
+    },
+    "abandoned": "clearsoft/easysql-connectors"
 }
